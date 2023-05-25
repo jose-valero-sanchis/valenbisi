@@ -9,7 +9,7 @@ estacion = '8416Y'
 
 url = f"https://opendata.aemet.es/opendata/api/valores/climatologicos/diarios/datos/fechaini/2022-12-01T00:00:00UTC/fechafin/{fin}T23:59:59UTC/estacion/{estacion}/"
 
-querystring = {"api_key":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqb3NldmFsZXJvMDMwOUBnbWFpbC5jb20iLCJqdGkiOiIyOTQxZjgxMS1hYzA1LTRkZWUtOTNjZS02ZjYzNjg3ZmEyZmIiLCJpc3MiOiJBRU1FVCIsImlhdCI6MTY3NzI1NjIwNCwidXNlcklkIjoiMjk0MWY4MTEtYWMwNS00ZGVlLTkzY2UtNmY2MzY4N2ZhMmZiIiwicm9sZSI6IiJ9.KNOQK_l24-HCMhBFg9PAKW5B2-lnJTFwmZvkwCrPsXE"}
+querystring = {"api_key":"your_api_key"}
 
 headers = {
     'cache-control': "no-cache"
