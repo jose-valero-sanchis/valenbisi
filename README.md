@@ -1,13 +1,11 @@
 # Valenbisi
 
-En este proyecto, *Valenbisi: un análisis sobre ruedas*, se ha llevado a cabo un exhaustivo análisis
-sobre el sistema de bicicletas compartidas de la ciudad de València. Este estudio ha buscado comprender
-los diferentes aspectos relacionados con el uso de este sistema de transporte sostenible:
+In this project, *Valenbisi: an analysis on wheels*, an exhaustive analysis of the bike-sharing system in the city of Valencia has been carried out. This study has sought to understand the different aspects related to the use of this sustainable transport system:
 
-- **Análisis exploratorio de los datos recopilados**. Este análisis ha consistido fundamentalmente en comparar cómo se comportan las estaciones centrales respecto a las periféricas.
+- **Exploratory analysis of the data**. This analysis has mainly consisted of comparing how the central stations behave with respect to the peripheral ones.
 
-- **Influencia de variables meteorológicas en el uso de las bicicletas de Valenbisi**. Se han recopilado datos climáticos, como la temperatura, el viento y las precipitaciones, y se ha evaluado su relación con los patrones de uso de las bicicletas.
+- **Influence of meteorological variables on the use of Valenbisi bicycles**. Weather data, such as temperature, wind and precipitation, were collected and their relationship with bicycle usage patterns was evaluated.
 
-- **Técnicas de clustering**. Se han agrupado las estaciones de Valenbisi en función de su similitud en términos de patrones de uso. Esto ha permitido identificar diferentes clusters de estaciones con características y necesidades particulares, lo cual puede ser utilizado para mejorar la planificación y distribución de las bicicletas en la ciudad. Asimismo, se ha considerado la incorporación de información sobre lugares de interés en la ciudad de Valencia, como universidades, hospitales, playas, áreas comerciales...
+- **Clustering techniques**. Valenbisi stations have been clustered according to their similarity in terms of usage patterns. This has allowed the identification of different clusters of stations with particular characteristics and needs, which can be used to improve the planning and distribution of bicycles in the city. Likewise, the incorporation of information about places of interest in the city of Valencia, such as universities, hospitals, beaches, commercial areas... has also been considered.
 
-- **Modelo predictivo**. Mediante la utilización de los datos recopilados, se trató de predecir la demanda futura de Valenbisi. Este modelo puede ser utilizado para planificar la distribución de bicicletas y optimizar la capacidad de las estaciones en función de la demanda esperada en diferentes momentos y estaciones de la ciudad.
+- **Predictive model**. Using the data collected, we tried to predict the future demand for Valenbisi. This model can be used to plan the distribution of bicycles and optimize the capacity of the stations according to the expected demand at different times and stations in the city.
