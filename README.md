@@ -1,5 +1,9 @@
 # Valenbisi
 
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-%2314354C.svg?style=for-the-badge&logo=R&logoColor=white)](https://www.r-project.org/) 
+
+
 ## Presentation
 
 In this project, *Valenbisi: an analysis on wheels*, an exhaustive analysis of the bike-sharing system in the city of Valencia has been carried out. This study has sought to understand the different aspects related to the use of this sustainable transport system:
